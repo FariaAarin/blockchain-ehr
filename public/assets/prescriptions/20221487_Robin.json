@@ -1,0 +1,32 @@
+{
+   "chain":[
+      {
+         "index":0,
+         "hashid":"",
+         "timestamp":1663328836785,
+         "proof-of-work":"xyz",
+         "content":{
+            "doctor_name":"Dr Alex",
+            "patient_name":"Robin",
+            "unique_id":"20222023",
+            "details":"test",
+            "pathology":"X-Ray,CBC",
+            "date":"16-09-2022"
+         }
+      },
+      {
+         "index":1,
+         "hashid":"300de9746dec628746378b2f3a25295051472cd0194c2215dcc6e9c12575e866",
+         "timestamp":1663328884742,
+         "proof-of-work":"xyz",
+         "content":{
+            "doctor_name":"Dr Alex",
+            "patient_name":"Robin",
+            "unique_id":"20222023",
+            "details":"test 2",
+            "pathology":"ECG",
+            "date":"16-09-2022"
+         }
+      }
+   ]
+}
